@@ -13,6 +13,7 @@
 		AD7AE842253A799B00302238 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD7AE841253A799B00302238 /* Preview Assets.xcassets */; };
 		AD7AE84F253A7A1900302238 /* Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7AE84E253A7A1900302238 /* Header.swift */; };
 		AD7AE852253B641800302238 /* LivingRoomSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7AE851253B641800302238 /* LivingRoomSection.swift */; };
+		AD7AE857253B6BCD00302238 /* LivingRoomCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7AE856253B6BCD00302238 /* LivingRoomCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AD7AE843253A799B00302238 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD7AE84E253A7A1900302238 /* Header.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Header.swift; sourceTree = "<group>"; };
 		AD7AE851253B641800302238 /* LivingRoomSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LivingRoomSection.swift; sourceTree = "<group>"; };
+		AD7AE856253B6BCD00302238 /* LivingRoomCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LivingRoomCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AD7AE84E253A7A1900302238 /* Header.swift */,
 				AD7AE83C253A799900302238 /* ContentView.swift */,
 				AD7AE851253B641800302238 /* LivingRoomSection.swift */,
+				AD7AE856253B6BCD00302238 /* LivingRoomCard.swift */,
 				AD7AE83E253A799B00302238 /* Assets.xcassets */,
 				AD7AE843253A799B00302238 /* Info.plist */,
 				AD7AE840253A799B00302238 /* Preview Content */,
@@ -146,6 +149,7 @@
 			files = (
 				AD7AE83D253A799900302238 /* ContentView.swift in Sources */,
 				AD7AE852253B641800302238 /* LivingRoomSection.swift in Sources */,
+				AD7AE857253B6BCD00302238 /* LivingRoomCard.swift in Sources */,
 				AD7AE84F253A7A1900302238 /* Header.swift in Sources */,
 				AD7AE83B253A799900302238 /* SmartHomeApp.swift in Sources */,
 			);
